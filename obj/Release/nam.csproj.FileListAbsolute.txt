@@ -1,0 +1,9 @@
+C:\Users\toshiki\Desktop\新しいフォルダー\新しいフォルダー\ソリューション\nam\bin\Release\nam.exe.config
+C:\Users\toshiki\Desktop\新しいフォルダー\新しいフォルダー\ソリューション\nam\bin\Release\nam.exe
+C:\Users\toshiki\Desktop\新しいフォルダー\新しいフォルダー\ソリューション\nam\bin\Release\nam.pdb
+C:\Users\toshiki\Desktop\新しいフォルダー\新しいフォルダー\ソリューション\nam\obj\Release\nam.Form1.resources
+C:\Users\toshiki\Desktop\新しいフォルダー\新しいフォルダー\ソリューション\nam\obj\Release\nam.Properties.Resources.resources
+C:\Users\toshiki\Desktop\新しいフォルダー\新しいフォルダー\ソリューション\nam\obj\Release\nam.csproj.GenerateResource.cache
+C:\Users\toshiki\Desktop\新しいフォルダー\新しいフォルダー\ソリューション\nam\obj\Release\nam.csproj.CoreCompileInputs.cache
+C:\Users\toshiki\Desktop\新しいフォルダー\新しいフォルダー\ソリューション\nam\obj\Release\nam.exe
+C:\Users\toshiki\Desktop\新しいフォルダー\新しいフォルダー\ソリューション\nam\obj\Release\nam.pdb
